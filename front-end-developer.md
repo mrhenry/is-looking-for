@@ -44,4 +44,4 @@ Sparkling rainbows and friendship will be yours for eternity. If you think you'r
 
 [Apply here](mailto:jobs@mrhenry.be) ✌️
 
-<img src="http://from.mrhenry.be/withlove/thanks.png" style="display: block; margin: 6rem auto; width: 80%; max-width: 480px">
+<img src="http://from.mrhenry.be/withlove/thanks-padding.png">
