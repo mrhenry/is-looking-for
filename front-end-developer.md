@@ -4,9 +4,10 @@
 
 Let aside the bad metaphors, we're working on our own way to build for the web. Instead of hopping on every new framework that pops up, we choose to take a step back and work on something stubborn & better.
 
-Based on new, modern and future-proof web standards, we're trying to build websites that work, everywhere, for everyone. For every *Shiny New Thing™*, we want to raise a thing that *Just Works™*.
+Based on new, modern, and future-proof web standards, we're trying to build websites that work, everywhere, for everyone. For every *Shiny New Thing™*, we want to raise a thing that *Just Works™*.
 
-If this really tickles your curiosity, we'd like to talk with you. If you think we're 100% in the wrong, we'd still like to talk with you.
+If this tickles your curiosity, we'd like to talk to you.
+If you think we're 100% in the wrong, we'd still like to talk to you.
 
 ## Who we are
 
@@ -41,7 +42,7 @@ Mr. Henry can offer you a friendly, flexible, horizontal and supportive work env
 
 A chance to grow your skills, with a team of talented women and men, on an international scale. Getting experience from building large ànd small projects, used by many, many users online. Believe us, it's huge.
 
-Sparkling rainbows and friendship will be yours for eternity. If you think you're up for the job, send over some of your work & a little something about yourself. If we like what we see, we'd love to invite you for a chat.
+Sparkling rainbows and friendship will be yours for all eternity. If you think you're up for the job, send over some of your work & a little something about yourself. If we like what we see, we'd love to invite you for a chat.
 
 [Apply here](mailto:jobs@mrhenry.be) ✌️
 
