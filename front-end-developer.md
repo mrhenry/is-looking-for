@@ -25,7 +25,7 @@ Our 'clientèle' ranges from rockstars to architects, photographers to cities. S
 - You love the web for its openness, and build websites accordingly, available for everyone on every device in every browser
 - You have an eye for design, a sense of style, care for aesthetics
 - You're curious about new developments & like to play in unknown territory
-- You know you're way around WordPress
+- You know your way around WordPress
 
 ## It would be nice if...
 
