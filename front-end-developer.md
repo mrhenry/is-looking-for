@@ -15,6 +15,8 @@ Mr. Henry is an internet-bureau, graphic design firm, development factory, birth
 
 Our 'clientèle' ranges from rockstars to architects, photographers to cities. Some of our clients include KOMONO, Eastpak, M HKA, Hugo & Marie, HETPALEIS, Vedett, Hi-ReS!, Proximus Cycling Challenge, Sagmeister & Walsh, Us By Night, Kunstenpunt,  Woestijnvis, our moms, city of Ghent/Antwerp/Hasselt, The Mill, Mr. Henry himself.
 
+Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [insta](https://instagram.com/wearemrhenry)  - [fb](https://fb.com/wearemrhenry) 
+
 ## Who you are
 
 - Progressively enhanced, mobile first websites are your trademark
