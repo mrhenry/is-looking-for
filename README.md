@@ -1,7 +1,9 @@
 Mr. Henry likes to draw pretty pictures and build wow-worthy websites.
 We would like to do that with you if you are a:
 
- - [fulltime developer](/fulltime-developer.md)
+
+- [fulltime developer](/fulltime-developer.md)
+- [senior designer](/senior-designer.md)
 
 or someone we absolutely cannot do without.
 
