@@ -17,6 +17,15 @@ Our 'clientèle' ranges from rockstars to architects, photographers to cities. S
 
 Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [insta](https://instagram.com/wearemrhenry)  - [fb](https://fb.com/wearemrhenry) 
 
+Some recent projects
+
+- [hugoandmarie.com](https://www.hugoandmarie.com)
+- [august-antwerp](https://www.august-antwerp).com
+- [usbynight.be](https://www.usbynight.be)
+- [gate15.be](https://www.gate15.be)
+- [lab101.be](https://www.lab101.be)
+- [ohmygeorge.be](https://www.ohmygeorge.be)
+
 ## Who you are
 
 - You care about web standards
