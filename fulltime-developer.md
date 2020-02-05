@@ -20,7 +20,7 @@ Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [in
 Some recent projects
 
 - [hugoandmarie.com](https://www.hugoandmarie.com)
-- [august-antwerp](https://www.august-antwerp).com
+- [august-antwerp.com](https://www.august-antwerp.com)
 - [usbynight.be](https://www.usbynight.be)
 - [gate15.be](https://www.gate15.be)
 - [lab101.be](https://www.lab101.be)
