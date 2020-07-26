@@ -3,7 +3,6 @@ We would like to do that with you if you are a:
 
 
 - [fulltime developer](/fulltime-developer.md)
-- [senior designer](/senior-designer.md)
 
 or someone we absolutely cannot do without.
 
