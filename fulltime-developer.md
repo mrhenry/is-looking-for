@@ -20,6 +20,8 @@ Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [in
 Some recent projects:
 
 - [hugoandmarie.com](https://www.hugoandmarie.com)
+- [komono.com](https://www.komono.com)
+- [vedett.com](https://www.vedett.com)
 - [kunsten.be](https://www.kunsten.be)
 - [juistisjuist.be](https://www.juistisjuist.be/)
 - [sereni.be](https://www.sereni.be)
