@@ -13,7 +13,7 @@ If you think we're 100% in the wrong, we'd still like to talk to you.
 
 Mr. Henry is an internet-bureau, graphic design firm, development lab, birthplace of concepts and ideas & creative cave... We love what we do! Mr. Henry is a small team, working on both little and big projects, be it on- or offline; but all with the same vigor!
 
-Our 'clientèle' ranges from rockstars to architects, photographers to cities. Some of our clients include KOMONO, Eastpak, M HKA, Hugo & Marie, OkO, Vedett, Hi-ReS!, August, Sagmeister & Walsh, Us by Night, Kunstenpunt, YUST, our moms, city of Ghent/Antwerp/Hasselt, The Mill and Mr. Henry themself.
+Our 'clientèle' ranges from rockstars to architects, photographers to cities. Some of our clients include KOMONO, Eastpak, M HKA, Hugo & Marie, OkO, Vedett, Hi-ReS!, August, Sagmeister & Walsh, Us by Night, Kunstenpunt, YUST, our moms, city of Ghent/Antwerp/Hasselt, The Mill and [Mr. Henry themself](https://www.mrhenry.be).
 
 Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [insta](https://instagram.com/wearemrhenry)  - [fb](https://fb.com/wearemrhenry) 
 
@@ -31,6 +31,11 @@ Some recent projects:
 - [lab101.be](https://www.lab101.be)
 - [ohmygeorge.be](https://www.ohmygeorge.be)
 
+On the side:
+
+- [core-web](https://github.com/mrhenry/core-web)
+- [web-tests](https://github.com/mrhenry/web-tests)
+
 ## Who you are
 
 - You care about web standards
@@ -40,9 +45,9 @@ Some recent projects:
 - You can communicate technical matters both on a client-level and internally 
 - You understand the need for a longterm vision on maintenance & continuity
 - You're curious about new developments & like to play in unknown territory
-- You know your way around WordPress 
+- You know your way around WordPress (or willing to learn)
 - You have a solid grasp on PHP
-- You're a team player
+- You ask for help and give back where you can
 
 ## It would be nice if...
 
@@ -56,7 +61,7 @@ Some recent projects:
 
 Mr. Henry can offer you a friendly, flexible, horizontal and supportive work environment, with lots of first-hand professional experience. We encourage continuous learning and constructive feedback.
 
-A chance to grow your skills, with a team of talented women and men, on an international scale. Getting experience from building large ànd small projects, used by many, many users online. Believe us, it's huge.
+A chance to grow your skills, with a team of talented people, on an international scale. Getting experience from building large ànd small projects, used by many, many users online.
 
 Sparkling rainbows and friendship will be yours for all eternity. If you think you're up for the job, send over some of your work & a little something about yourself. If we like what we see, we'd love to invite you for a chat.
 
