@@ -82,7 +82,7 @@ _We are looking for someone who can do enough to be productive and is willing to
 - We aim to be flexible and supportive
 - We provide a safe and blameless development environment
 - We value your input, from day one, on all aspects of the job
-- We encourage continuous learning and provide materials + time for this
+- We encourage continuous learning and provide materials and time for this
 - We do regular checkups to see how you're doing
 
 ## What we offer
