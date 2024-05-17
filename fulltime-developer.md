@@ -1,6 +1,6 @@
 # Mr. Henry is looking for a fulltime developer
 
-We are looking for a fulltime developer to join our development team.
+We are looking for a fulltime developer to join our team.
 
 ## Who we are
 
