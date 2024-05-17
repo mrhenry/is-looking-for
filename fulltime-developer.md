@@ -91,5 +91,3 @@ _We are looking for someone who can do enough to be productive and is willing to
 We offer a full-time position in a creative environment where you can learn from and with your colleagues.
 
 [Apply here](mailto:jobs@mrhenry.be)
-
-<img src="http://from.mrhenry.be/withlove/thanks-padding.png">
