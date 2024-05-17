@@ -16,7 +16,7 @@ We work closely together across teams and disciplines. Always trying to improve 
 
 We're based in Antwerp, Belgium.
 
-[www](https://www.mrhenry.be) - [insta](https://instagram.com/wearemrhenry)
+[www](https://www.mrhenry.be) - [instagram](https://instagram.com/wearemrhenry)
 
 Some recent projects:
 
