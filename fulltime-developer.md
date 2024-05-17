@@ -7,7 +7,7 @@ We are looking for a fulltime developer to join our team.
 Mr. Henry is an agency with a small team of passionate experts.  
 We're a mix of developers and designers working on online and offline projects.  
 
-We work on branding, design and web development.  
+We work on design, strategy and web development.  
 For many projects we do the full package, from branding to print and web deliverables.
 
 We work closely together across teams and disciplines. Always trying to improve our work, and learn from each other.
