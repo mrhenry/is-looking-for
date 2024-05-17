@@ -1,4 +1,4 @@
-# Mr. Henry is looking for
+## Open positions
 
 - [fulltime developer with a focus on function](./fulltime-developer-function.md)
 - [fulltime developer with a focus on style](./fulltime-developer-style.md)
