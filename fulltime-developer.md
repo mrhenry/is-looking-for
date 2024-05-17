@@ -37,33 +37,59 @@ On the side:
 
 ## Who you are
 
-- You care about web standards
-- You're fluent in HTML, CSS and Javascript
-- You love the web for its openness, and build websites accordingly, available for everyone on every device in every - browser
-- You can breakdown a complex issue into smaller parts to solve
+You will be working in a team and you will have to opportunity to learn and grow.  
+We do not expect you to have mastered every aspect we value but we do expect some expertise in key areas.
+
+Please let us know your strengths and weaknesses, we're looking for a good fit, not a perfect match.
+
+Do not hesitate to apply if you're not sure you meet all the requirements.  
+We are open to all candidates and will consider all applications.
+
+### Technical skills
+- You're fluent in HTML and CSS
+- You have experience with WordPress (or PHP)
+- You have experience with accessibility and are familiar with WCAG
+- You have some experience with JavaScript (not that important)
+
+### Technical skills (bonus)
+- You can create new interactive components that are fully accessible using WCAG examples as a guide
+- You have in-depth knowledge of WordPress
+- You know how a page is rendered, how scripts initiate and how styles are applied at a fundamental level
+- You have experience with handlebars-like templates (we use Twig)
+- You can write highly maintainable code
+- You can write easily reviewable code
+- You can manage your own focus points and balance your work between hard problems and routine tasks
+- You are aware of "Thinking, Fast and Slow" and can leverage it to ease your work
+
+### Soft skills
+- You ask for help
+- You can breakdown a complex issue into smaller parts
+- You can structure a large todo and order parts by dependency
+- You have an eye for detail
+- You can manage your own weekly planning
+
+### Soft skills (bonus)
+- You see what is going on around you and help your colleagues
 - You can communicate technical matters both on a client-level and internally 
-- You understand the need for a longterm vision on maintenance & continuity
-- You're curious about new developments & like to play in unknown territory
-- You know your way around WordPress (or willing to learn)
-- You have a solid grasp on PHP
-- You ask for help and give back where you can
+- You understand the need for a long term vision on maintenance and continuity
+- You see gaps and opportunities in the components and building blocks we already have
 
-## It would be nice if...
+_We are not looking for someone who already can do all these things._  
+_We are looking for someone who can do enough to be productive and is willing to learn some of the rest._
 
-- You care about performance (perceived, render, …)
-- You can learn us something new about something cool
-- You (would like to) give back to the open source community
-- You are interested in the future of the web, and have a philopsohpy on how it can grow as a medium
-- You know SEO and how to analyse it on a basic level
+## Working environment
 
-## What's in it for you
+- We have an open and slightly horizontal structure
+- We aim to be flexible and supportive
+- We provide a safe and blameless development environment
+- We value your input, from day one, on all aspects of the job
+- We encourage continuous learning and provide materials + time for this
+- We do regular checkups to see how you're doing
 
-Mr. Henry can offer you a friendly, flexible, horizontal and supportive work environment, with lots of first-hand professional experience. We encourage continuous learning and constructive feedback.
+## What we offer
 
-A chance to grow your skills, with a team of talented people, on an international scale. Getting experience from building large ànd small projects, used by many, many users online.
+We offer a full-time position in a creative environment where you can learn from and with your colleagues.
 
-Sparkling rainbows and friendship will be yours for all eternity. If you think you're up for the job, send over some of your work & a little something about yourself. If we like what we see, we'd love to invite you for a chat.
-
-[Apply here](mailto:jobs@mrhenry.be) ✌️
+[Apply here](mailto:jobs@mrhenry.be)
 
 <img src="http://from.mrhenry.be/withlove/thanks-padding.png">
