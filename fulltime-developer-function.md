@@ -1,4 +1,4 @@
-# Mr. Henry is looking for a fulltime developer
+# Mr. Henry is looking for a fulltime developer with a focus on function
 
 We are looking for a fulltime developer to join our team.
 
@@ -36,6 +36,8 @@ We're based in Antwerp, Belgium.
 
 ## Who you are
 
+Your strength is writing stable and solid code to render CMS data with reusable components.
+
 You will be working in a team and you will have to opportunity to learn and grow.  
 We do not expect you to have mastered every aspect we value but we do expect some expertise in key areas.
 
@@ -44,15 +46,18 @@ Please let us know your strengths and weaknesses, we're looking for a good fit, 
 Do not hesitate to apply if you're not sure you meet all the requirements.  
 We are open to all candidates and will consider all applications.
 
+_Maybe your focus is more on realizing designs with HTML and CSS? Checkout our other [fulltime developer](fulltime-developer-style.md) position._
+
 ### Technical skills
-- You're fluent in HTML and CSS
 - You have experience with WordPress (or PHP)
 - You have experience with accessibility and are familiar with WCAG
-- You have some experience with JavaScript (not that important)
+- You have experience with HTML and CSS
+- You have some experience with JavaScript
 
 ### Technical skills (bonus)
-- You can create new interactive components that are fully accessible using WCAG examples as a guide
+- You can structure a CMS so that clients can easily manage their content
 - You have in-depth knowledge of WordPress
+- You can create new interactive components that are fully accessible using WCAG examples as a guide
 - You know how a page is rendered, how scripts initiate and how styles are applied at a fundamental level
 - You have experience with handlebars-like templates (we use Twig)
 - You can write highly maintainable code
