@@ -2,6 +2,8 @@
 
 We are looking for a fulltime developer to join our team.
 
+[Apply here](mailto:jobs@mrhenry.be)
+
 ## Who we are
 
 Mr. Henry is an agency with a small team of passionate experts.  
@@ -16,9 +18,7 @@ We work closely together across teams and disciplines. Always trying to improve 
 
 We're based in Antwerp, Belgium.
 
-[www](https://www.mrhenry.be) - [instagram](https://instagram.com/wearemrhenry)
-
-Some recent projects:
+### Some recent projects
 
 - [afterall.org](https://www.afterall.org/)
 - [designsofthetime.be](https://www.designsofthetime.be/)
@@ -27,8 +27,7 @@ Some recent projects:
 - [solitair.be](https://www.solitair.be/)
 - [... see more](https://www.mrhenry.be/work/all/)
 
-
-On the side:
+### On the side
 
 - [polyfill-library](https://github.com/mrhenry/polyfill-library)
 - [core-web](https://github.com/mrhenry/core-web)
