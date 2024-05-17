@@ -1,39 +1,37 @@
 # Mr. Henry is looking for a fulltime developer
 
-*At Mr. Henry, we sail against the current of the wild web development seas.*
+We are looking for a fulltime developer to join our team.
 
-Let aside the bad metaphors, we're working on our own way to build for the web. Instead of hopping on every new framework that pops up, we choose to take a step back and work on something stubborn & better.
-
-Based on new, modern, and future-proof web standards, we're trying to build websites that work, everywhere, for everyone. For every *Shiny New Thing™*, we want to raise a thing that *Just Works™*.
-
-If this tickles your curiosity, we'd like to talk to you.
-If you think we're 100% in the wrong, we'd still like to talk to you.
+[Apply here](mailto:jobs@mrhenry.be)
 
 ## Who we are
 
-Mr. Henry is an internet-bureau, graphic design firm, development lab, birthplace of concepts and ideas & creative cave... We love what we do! Mr. Henry is a small team, working on both little and big projects, be it on- or offline; but all with the same vigor!
+Mr. Henry is an agency with a small team of passionate experts.  
+We're a mix of developers and designers working on online and offline projects.  
 
-Our 'clientèle' ranges from rockstars to architects, photographers to cities. Some of our clients include KOMONO, Eastpak, M HKA, Hugo & Marie, OkO, Vedett, Hi-ReS!, August, Sagmeister & Walsh, Us by Night, Kunstenpunt, YUST, our moms, city of Ghent/Antwerp/Hasselt, The Mill and [Mr. Henry themself](https://www.mrhenry.be).
+We work on design, strategy and web development.  
+For many projects we do the full package, from branding to print and web deliverables.
 
-Some links for some behind-the-scene action: [www](https://www.mrhenry.be) - [insta](https://instagram.com/wearemrhenry)  - [fb](https://fb.com/wearemrhenry) 
+We foster long-term and sustainable relationships with our clients.
 
-Some recent projects:
+We work closely together across teams and disciplines. Always trying to improve our work, and learn from each other.
 
-- [hugoandmarie.com](https://www.hugoandmarie.com)
-- [komono.com](https://www.komono.com)
-- [vedett.com](https://www.vedett.com)
-- [kunsten.be](https://www.kunsten.be)
-- [juistisjuist.be](https://www.juistisjuist.be/)
-- [sereni.be](https://www.sereni.be)
-- [august-antwerp.com](https://www.august-antwerp.com)
-- [usbynight.be](https://www.usbynight.be)
-- [stanstan.be](https://www.stanstan.be)
-- [lab101.be](https://www.lab101.be)
-- [ohmygeorge.be](https://www.ohmygeorge.be)
+We're based in Antwerp, Belgium.
 
-On the side:
+### Some recent projects
 
+- [afterall.org](https://www.afterall.org/)
+- [designsofthetime.be](https://www.designsofthetime.be/)
+- [ligo.be](https://www.ligo.be/)
+- [oranje.be](https://www.oranje.be/)
+- [solitair.be](https://www.solitair.be/)
+- [... see more](https://www.mrhenry.be/work/all/)
+
+### On the side
+
+- [polyfill-library](https://github.com/mrhenry/polyfill-library)
 - [core-web](https://github.com/mrhenry/core-web)
+- [stylelint plugins](https://github.com/mrhenry/stylelint-mrhenry)
 - [web-tests](https://github.com/mrhenry/web-tests)
 
 ## Who you are
@@ -84,7 +82,7 @@ _We are looking for someone who can do enough to be productive and is willing to
 - We aim to be flexible and supportive
 - We provide a safe and blameless development environment
 - We value your input, from day one, on all aspects of the job
-- We encourage continuous learning and provide materials + time for this
+- We encourage continuous learning and provide materials and time for this
 - We do regular checkups to see how you're doing
 
 ## What we offer
@@ -92,5 +90,3 @@ _We are looking for someone who can do enough to be productive and is willing to
 We offer a full-time position in a creative environment where you can learn from and with your colleagues.
 
 [Apply here](mailto:jobs@mrhenry.be)
-
-<img src="http://from.mrhenry.be/withlove/thanks-padding.png">
