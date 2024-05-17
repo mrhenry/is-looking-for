@@ -12,7 +12,7 @@ We're a mix of developers and designers working on online and offline projects.
 We work on design, strategy and web development.  
 For many projects we do the full package, from branding to print and web deliverables.
 
-We foster long term and sustainable relationships with our clients.
+We foster long-term and sustainable relationships with our clients.
 
 We work closely together across teams and disciplines. Always trying to improve our work, and learn from each other.
 
