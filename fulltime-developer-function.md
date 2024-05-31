@@ -46,6 +46,8 @@ Please let us know your strengths and weaknesses, we're looking for a good fit, 
 Do not hesitate to apply if you're not sure you meet all the requirements.  
 We are open to all candidates and will consider all applications.
 
+You're able to work regularly on location in our Antwerp office. You are fluent in English & Dutch, both speaking and writing.
+
 _Maybe your focus is more on realizing designs with HTML and CSS? Checkout our other [fulltime developer](fulltime-developer-style.md) position._
 
 ### Technical skills
