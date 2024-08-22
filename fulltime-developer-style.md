@@ -1,4 +1,4 @@
-# Mr. Henry is looking for a fulltime developer with a focus on style
+# Mr. Henry is looking for a fulltime developer
 
 We are looking for a fulltime developer to join our team.
 
@@ -46,15 +46,13 @@ Please let us know your strengths and weaknesses, we're looking for a good fit, 
 Do not hesitate to apply if you're not sure you meet all the requirements.  
 We are open to all candidates and will consider all applications.
 
-You're able to work regularly on location in our Antwerp office. You are fluent in English & Dutch, both speaking and writing.
-
-_Maybe your focus is more on building functional features and the CMS setup? Checkout our other [fulltime developer](fulltime-developer-function.md) position._
+You are fluent in English & Dutch, both speaking and writing.
 
 ### Technical skills
 - You're fluent in HTML and CSS
 - You have experience with accessibility and are familiar with WCAG
 - You have some experience with WordPress (or PHP)
-- You have some experience with JavaScript (not that important)
+- You have some experience with JavaScript
 
 ### Technical skills (bonus)
 - You have experience with handlebars-like templates (we use Twig)
